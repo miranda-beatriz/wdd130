@@ -1,0 +1,65 @@
+
+a {
+  color: pink;
+  margin: 40px;
+  font-size: 1.5em;
+}    
+h1 {
+    text-align: center;
+    margin: 40px;
+    color: white;
+    font-size: 50px;
+  }
+  h2 {
+    text-align: match-parent;
+    margin: 15px auto;
+    color: black;
+    font-size: 15px;
+  }
+  img {
+      width: 15%;
+      display: block;
+      margin: 0 auto;
+  }
+  p {
+    width: 80%;
+    color: white;
+    text-align: center;
+    margin: 10px auto;
+    
+  }
+  h3 {
+    width: 80%;
+    color: white;
+    text-align: center;
+    margin: 20px auto;
+    font-size: large;
+  }
+  .main-para {
+    font-size: 35px;
+    width: 80%;
+    margin: 15px auto;
+    text-align: match-parent;
+    color: white;
+}
+active {
+  background-color: pink;
+  color: pink;
+}
+footer p {
+  font-size: 15px;
+  margin: 0 auto;
+  color: black;
+  text-align:center;
+  
+}
+h1:hover {
+    background-color: pink;
+    color: black;
+}
+head,body {
+    background-color: pink;
+}
+header{
+    text-align: center;
+}
