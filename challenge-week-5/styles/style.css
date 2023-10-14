@@ -1,0 +1,11 @@
+#circles{
+    width: 5000px;
+  height: 100%;
+  padding: 0 auto;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
+#images{
+    width: 25%;
+    background-color: grey;
+}
